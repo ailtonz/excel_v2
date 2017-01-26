@@ -1,0 +1,36 @@
+C:\tmp\wkspace\EAD_CSCHARP\files\excel_v2\excel_v2\bin\Debug\excel_v2.exe.config
+C:\tmp\wkspace\EAD_CSCHARP\files\excel_v2\excel_v2\bin\Debug\excel_v2.exe
+C:\tmp\wkspace\EAD_CSCHARP\files\excel_v2\excel_v2\bin\Debug\excel_v2.pdb
+C:\tmp\wkspace\EAD_CSCHARP\files\excel_v2\excel_v2\obj\Debug\excel_v2.csprojResolveAssemblyReference.cache
+C:\tmp\wkspace\EAD_CSCHARP\files\excel_v2\excel_v2\obj\Debug\excel_v2.csproj.ResolveComReference.cache
+C:\tmp\wkspace\EAD_CSCHARP\files\excel_v2\excel_v2\obj\Debug\excel_v2.exe
+C:\tmp\wkspace\EAD_CSCHARP\files\excel_v2\excel_v2\obj\Debug\excel_v2.pdb
+C:\Users\l.a.junior\Desktop\wkspace\transferencias\files\excel_v2\excel_v2\bin\Debug\excel_v2.exe.config
+C:\Users\l.a.junior\Desktop\wkspace\transferencias\files\excel_v2\excel_v2\obj\Debug\excel_v2.csproj.ResolveComReference.cache
+C:\Users\l.a.junior\Desktop\wkspace\transferencias\files\excel_v2\excel_v2\obj\Debug\excel_v2.exe
+C:\Users\l.a.junior\Desktop\wkspace\transferencias\files\excel_v2\excel_v2\obj\Debug\excel_v2.pdb
+C:\Users\l.a.junior\Desktop\wkspace\transferencias\files\excel_v2\excel_v2\bin\Debug\excel_v2.exe
+C:\Users\l.a.junior\Desktop\wkspace\transferencias\files\excel_v2\excel_v2\bin\Debug\excel_v2.pdb
+C:\Users\l.a.junior\Desktop\wkspace\transferencias\files\excel_v2\excel_v2\obj\Debug\excel_v2.csprojResolveAssemblyReference.cache
+C:\Users\a.dasilva\OneDrive - Accenture\_wkspace\Estudos\Csharp\transferencias\files\excel_v2\excel_v2\bin\Debug\excel_v2.exe.config
+C:\Users\a.dasilva\OneDrive - Accenture\_wkspace\Estudos\Csharp\transferencias\files\excel_v2\excel_v2\bin\Debug\excel_v2.exe
+C:\Users\a.dasilva\OneDrive - Accenture\_wkspace\Estudos\Csharp\transferencias\files\excel_v2\excel_v2\bin\Debug\excel_v2.pdb
+C:\Users\a.dasilva\OneDrive - Accenture\_wkspace\Estudos\Csharp\transferencias\files\excel_v2\excel_v2\obj\Debug\excel_v2.csprojResolveAssemblyReference.cache
+C:\Users\a.dasilva\OneDrive - Accenture\_wkspace\Estudos\Csharp\transferencias\files\excel_v2\excel_v2\obj\Debug\excel_v2.csproj.ResolveComReference.cache
+C:\Users\a.dasilva\OneDrive - Accenture\_wkspace\Estudos\Csharp\transferencias\files\excel_v2\excel_v2\obj\Debug\excel_v2.exe
+C:\Users\a.dasilva\OneDrive - Accenture\_wkspace\Estudos\Csharp\transferencias\files\excel_v2\excel_v2\obj\Debug\excel_v2.pdb
+C:\Users\a.dasilva\Desktop\excel\excel_v2\excel_v2\bin\Debug\excel_v2.exe.config
+C:\Users\a.dasilva\Desktop\excel\excel_v2\excel_v2\obj\Debug\excel_v2.csproj.ResolveComReference.cache
+C:\Users\a.dasilva\Desktop\excel\excel_v2\excel_v2\obj\Debug\excel_v2.exe
+C:\Users\a.dasilva\Desktop\excel\excel_v2\excel_v2\obj\Debug\excel_v2.pdb
+C:\Users\a.dasilva\Desktop\excel\excel_v2\excel_v2\obj\Debug\excel_v2.csprojResolveAssemblyReference.cache
+C:\Users\a.dasilva\Desktop\excel\excel_v2\excel_v2\bin\Debug\excel_v2.exe
+C:\Users\a.dasilva\Desktop\excel\excel_v2\excel_v2\bin\Debug\excel_v2.pdb
+C:\tmp\OneDrive\_wkspace\3_Referências\excel\excel_v2\excel_v2\bin\Debug\excel_v2.exe.config
+C:\tmp\OneDrive\_wkspace\3_Referências\excel\excel_v2\excel_v2\obj\Debug\excel_v2.csproj.ResolveComReference.cache
+C:\tmp\OneDrive\_wkspace\3_Referências\excel\excel_v2\excel_v2\obj\Debug\excel_v2.exe
+C:\tmp\OneDrive\_wkspace\3_Referências\excel\excel_v2\excel_v2\obj\Debug\excel_v2.pdb
+C:\tmp\OneDrive\_wkspace\3_Referências\excel_v2\bin\Debug\excel_v2.exe.config
+C:\tmp\OneDrive\_wkspace\3_Referências\excel_v2\obj\Debug\excel_v2.csproj.ResolveComReference.cache
+C:\tmp\OneDrive\_wkspace\3_Referências\excel_v2\obj\Debug\excel_v2.exe
+C:\tmp\OneDrive\_wkspace\3_Referências\excel_v2\obj\Debug\excel_v2.pdb
